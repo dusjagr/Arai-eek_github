@@ -1,0 +1,12 @@
+[submodule ".github"]
+	path = .github
+	url = git@github.com:arai-eek/.github.git
+[submodule "design"]
+	path = design
+	url = git@github.com:arai-eek/design.git
+[submodule "forever4093geeking"]
+	path = forever4093geeking
+	url = git@github.com:arai-eek/forever4093geeking.git
+[submodule "stikkarai-eek-factory"]
+	path = stikkarai-eek-factory
+	url = git@github.com:arai-eek/stikkarai-eek-factory.git
