@@ -10,3 +10,6 @@
 [submodule "stikkarai-eek-factory"]
 	path = stikkarai-eek-factory
 	url = git@github.com:arai-eek/stikkarai-eek-factory.git
+[submodule "arai-eek.github.io"]
+	path = arai-eek.github.io
+	url = git@github.com:arai-eek/arai-eek.github.io.git
