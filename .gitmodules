@@ -13,3 +13,6 @@
 [submodule "arai-eek.github.io"]
 	path = arai-eek.github.io
 	url = git@github.com:arai-eek/arai-eek.github.io.git
+[submodule "PaRang_Display_2568"]
+	path = PaRang_Display_2568
+	url = git@github.com:arai-eek/PaRang_Display_2568.git
