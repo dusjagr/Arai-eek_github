@@ -16,3 +16,6 @@
 [submodule "PaRang_Display_2568"]
 	path = PaRang_Display_2568
 	url = git@github.com:arai-eek/PaRang_Display_2568.git
+[submodule "arai-eek-wikiBot"]
+	path = arai-eek-wikiBot
+	url = git@github.com:arai-eek/arai-eek-wikiBot.git
